@@ -2,6 +2,8 @@
 
 MVP del explorador de experiencias de **Wanderlust Labs**: una app multipágina con **Next.js 16 (App Router), React 19, TypeScript y Tailwind CSS** para descubrir, buscar, filtrar y guardar experiencias de viaje alrededor del mundo.
 
+**🌐 Demo en vivo:** https://nextjs-wanderlust-explorer-luiscroe.vercel.app
+
 La búsqueda y los filtros viven en la URL, así que cualquier vista se puede compartir con un enlace:
 
 ```
